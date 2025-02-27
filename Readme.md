@@ -10,7 +10,8 @@ Walk many moons with blockchain wisdom, strong in ways of Solana and shared ledg
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/legend-keyvel-alston)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cashblaze127)
 
-## Core Competencies | Notable Achievements | Professional Background
+
+| Core Competencies | Notable Achievements | Professional Background
 --- | --- | ---
 **Blockchain Architecture**: Solana, Web3.js, Anchor Framework | Spearheaded development of multiple high-profile DeFi protocols | 5+ years in blockchain engineering
 **Programming Languages**: Rust, TypeScript, JavaScript | Enhanced smart contract efficiency, reducing gas costs by 40% | 4+ years focused on Solana ecosystem
