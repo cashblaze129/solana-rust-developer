@@ -2,7 +2,7 @@
 
 Walk many moons with blockchain wisdom, strong in ways of Solana and shared ledger paths. Build many strong tepees of decentralized apps and smart contracts that stand tall. Know deep secrets of Proof of History, Sealevel's many streams, and Rust's strong arrows. Craft solutions that grow with tribe, keep valuables safe, and trade fast like running deer. Heart beats for new ways of trading and building Web3 village, sharing knowledge with all tribes through open gifts of code.
 
-## Contact Information
+## Have a project in mind? Ping me if you need help!
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cashblaze129@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cashblaze127)
